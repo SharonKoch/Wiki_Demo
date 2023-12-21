@@ -178,7 +178,7 @@
     "simple-git": "3.16.0",
     "solr-node": "1.2.1",
     "sqlite3": "5.1.4",
-    "ssh2": "1.11.0",
+    "ssh2": "1.15.0",
     "ssh2-promise": "1.0.3",
     "striptags": "3.2.0",
     "subscriptions-transport-ws": "0.9.18",
