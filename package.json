@@ -12,7 +12,9 @@
     "watch": "NODE_OPTIONS=--openssl-legacy-provider webpack --config dev/webpack/webpack.dev.js",
     "test": "eslint --format codeframe --ext .js,.vue . && pug-lint server/views && jest",
     "cypress:open": "cypress open",
-    "postinstall": "patch-package"
+    "postinstall": "patch-package",
+    "prepare": "yarn run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -190,7 +192,8 @@
     "validate.js": "0.13.1",
     "winston": "3.8.2",
     "xss": "1.0.14",
-    "yargs": "17.6.2"
+    "yargs": "17.6.2",
+    "@snyk/protect": "latest"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.1",
@@ -393,5 +396,6 @@
     "type": "opencollective",
     "url": "https://opencollective.com/wikijs",
     "logo": "https://opencollective.com/opencollective/logo.txt"
-  }
+  },
+  "snyk": true
 }
