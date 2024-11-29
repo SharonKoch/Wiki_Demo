@@ -137,7 +137,7 @@
     "objection": "2.2.18",
     "passport": "0.4.1",
     "passport-auth0": "1.4.3",
-    "passport-azure-ad": "4.3.4",
+    "passport-azure-ad": "4.3.5",
     "passport-cas": "0.1.1",
     "passport-discord": "0.1.4",
     "passport-dropbox-oauth2": "1.1.0",
