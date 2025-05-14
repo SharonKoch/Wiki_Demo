@@ -79,7 +79,7 @@
     "eventemitter2": "6.4.9",
     "express": "4.18.2",
     "express-brute": "1.0.1",
-    "express-session": "1.17.3",
+    "express-session": "1.18.1",
     "file-type": "15.0.1",
     "filesize": "6.1.0",
     "fs-extra": "9.0.1",
