@@ -175,7 +175,7 @@
     "scim-query-filter-parser": "2.0.4",
     "semver": "7.3.8",
     "serve-favicon": "2.5.0",
-    "simple-git": "3.16.0",
+    "simple-git": "3.36.0",
     "solr-node": "1.2.1",
     "sqlite3": "5.1.4",
     "ssh2": "1.11.0",
