@@ -14113,10 +14113,10 @@ node-uuid@1.4.1:
   resolved "https://registry.yarnpkg.com/node-uuid/-/node-uuid-1.4.1.tgz#39aef510e5889a3dca9c895b506c73aae1bac048"
   integrity sha1-Oa71EOWImj3KnIlbUGxzquG6wEg=
 
-nodemailer@6.9.1:
-  version "6.9.1"
-  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-6.9.1.tgz#8249d928a43ed85fec17b13d2870c8f758a126ed"
-  integrity sha512-qHw7dOiU5UKNnQpXktdgQ1d3OFgRAekuvbJLcdG5dnEo/GtcTHRYM7+UfJARdOFU9WUQO8OiIamgWPmiSFHYAA==
+nodemailer@10.4.1:
+  version "10.4.1"
+  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-10.4.1.tgz#ce5904cdf987b2ff0d82a20b12aceb27c2996018"
+  integrity sha512-CyGM/J+n6W72v2B44BOkIrrQ/cvhm2fOa7fkQDHYOqtjM8stumU5ey3uv9oJ2ryShNit79NaEW/vXznvt/35vA==
 
 nopt@1.0.10:
   version "1.0.10"
